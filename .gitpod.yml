@@ -1,2 +1,6 @@
 image:
   file: .gitpod.dockerfile
+vscode:
+  extensions:
+    - mathiasfrohlich.Kotlin@1.7.0:9xQZtwTUg4bdXHCMyxM7vQ==
+    - fwcd.kotlin@0.2.11:moh8IDanzsIlhtK2IeiLmQ==
